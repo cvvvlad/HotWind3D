@@ -1,0 +1,45 @@
+D:\Пользователи\chernyatevich_v\Documents\Visual Studio 2013\Projects\TestMVVMWindows\TestMVVMWindows\obj\Debug\View\Outliner.baml
+D:\Пользователи\chernyatevich_v\Documents\Visual Studio 2013\Projects\TestMVVMWindows\TestMVVMWindows\obj\Debug\View\SceneObjectProperties.baml
+D:\Пользователи\chernyatevich_v\Documents\Visual Studio 2013\Projects\TestMVVMWindows\TestMVVMWindows\obj\Debug\View\WindowProvider.baml
+D:\Пользователи\chernyatevich_v\Documents\Visual Studio 2013\Projects\TestMVVMWindows\TestMVVMWindows\obj\Debug\View\MainWindow.g.cs
+D:\Пользователи\chernyatevich_v\Documents\Visual Studio 2013\Projects\TestMVVMWindows\TestMVVMWindows\obj\Debug\View\Outliner.g.cs
+D:\Пользователи\chernyatevich_v\Documents\Visual Studio 2013\Projects\TestMVVMWindows\TestMVVMWindows\obj\Debug\View\SceneObjectProperties.g.cs
+D:\Пользователи\chernyatevich_v\Documents\Visual Studio 2013\Projects\TestMVVMWindows\TestMVVMWindows\obj\Debug\View\Viewport.g.cs
+D:\Пользователи\chernyatevich_v\Documents\Visual Studio 2013\Projects\TestMVVMWindows\TestMVVMWindows\obj\Debug\View\WindowProvider.g.cs
+D:\Пользователи\chernyatevich_v\Documents\Visual Studio 2013\Projects\TestMVVMWindows\TestMVVMWindows\obj\Debug\App.g.cs
+D:\Пользователи\chernyatevich_v\Documents\Visual Studio 2013\Projects\TestMVVMWindows\TestMVVMWindows\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Пользователи\chernyatevich_v\Documents\Visual Studio 2013\Projects\TestMVVMWindows\TestMVVMWindows\obj\Debug\HotWind3D_MarkupCompile.cache
+D:\Пользователи\chernyatevich_v\Documents\Visual Studio 2013\Projects\TestMVVMWindows\TestMVVMWindows\obj\Debug\HotWind3D_MarkupCompile.lref
+D:\Пользователи\chernyatevich_v\Documents\Visual Studio 2013\Projects\TestMVVMWindows\TestMVVMWindows\bin\Debug\HotWind3D.exe.config
+D:\Пользователи\chernyatevich_v\Documents\Visual Studio 2013\Projects\TestMVVMWindows\TestMVVMWindows\bin\Debug\HotWind3D.exe
+D:\Пользователи\chernyatevich_v\Documents\Visual Studio 2013\Projects\TestMVVMWindows\TestMVVMWindows\bin\Debug\HotWind3D.pdb
+D:\Пользователи\chernyatevich_v\Documents\Visual Studio 2013\Projects\TestMVVMWindows\TestMVVMWindows\bin\Debug\GalaSoft.MvvmLight.dll
+D:\Пользователи\chernyatevich_v\Documents\Visual Studio 2013\Projects\TestMVVMWindows\TestMVVMWindows\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+D:\Пользователи\chernyatevich_v\Documents\Visual Studio 2013\Projects\TestMVVMWindows\TestMVVMWindows\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+D:\Пользователи\chernyatevich_v\Documents\Visual Studio 2013\Projects\TestMVVMWindows\TestMVVMWindows\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Пользователи\chernyatevich_v\Documents\Visual Studio 2013\Projects\TestMVVMWindows\TestMVVMWindows\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\Пользователи\chernyatevich_v\Documents\Visual Studio 2013\Projects\TestMVVMWindows\TestMVVMWindows\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Пользователи\chernyatevich_v\Documents\Visual Studio 2013\Projects\TestMVVMWindows\TestMVVMWindows\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\Пользователи\chernyatevich_v\Documents\Visual Studio 2013\Projects\TestMVVMWindows\TestMVVMWindows\bin\Debug\System.Windows.Interactivity.dll
+D:\Пользователи\chernyatevich_v\Documents\Visual Studio 2013\Projects\TestMVVMWindows\TestMVVMWindows\bin\Debug\GalaSoft.MvvmLight.pdb
+D:\Пользователи\chernyatevich_v\Documents\Visual Studio 2013\Projects\TestMVVMWindows\TestMVVMWindows\bin\Debug\GalaSoft.MvvmLight.xml
+D:\Пользователи\chernyatevich_v\Documents\Visual Studio 2013\Projects\TestMVVMWindows\TestMVVMWindows\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+D:\Пользователи\chernyatevich_v\Documents\Visual Studio 2013\Projects\TestMVVMWindows\TestMVVMWindows\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+D:\Пользователи\chernyatevich_v\Documents\Visual Studio 2013\Projects\TestMVVMWindows\TestMVVMWindows\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+D:\Пользователи\chernyatevich_v\Documents\Visual Studio 2013\Projects\TestMVVMWindows\TestMVVMWindows\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+D:\Пользователи\chernyatevich_v\Documents\Visual Studio 2013\Projects\TestMVVMWindows\TestMVVMWindows\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Пользователи\chernyatevich_v\Documents\Visual Studio 2013\Projects\TestMVVMWindows\TestMVVMWindows\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Пользователи\chernyatevich_v\Documents\Visual Studio 2013\Projects\TestMVVMWindows\TestMVVMWindows\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Пользователи\chernyatevich_v\Documents\Visual Studio 2013\Projects\TestMVVMWindows\TestMVVMWindows\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\Пользователи\chernyatevich_v\Documents\Visual Studio 2013\Projects\TestMVVMWindows\TestMVVMWindows\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\Пользователи\chernyatevich_v\Documents\Visual Studio 2013\Projects\TestMVVMWindows\TestMVVMWindows\obj\Debug\App.baml
+D:\Пользователи\chernyatevich_v\Documents\Visual Studio 2013\Projects\TestMVVMWindows\TestMVVMWindows\obj\Debug\View\MainWindow.baml
+D:\Пользователи\chernyatevich_v\Documents\Visual Studio 2013\Projects\TestMVVMWindows\TestMVVMWindows\obj\Debug\View\Viewport.baml
+D:\Пользователи\chernyatevich_v\Documents\Visual Studio 2013\Projects\TestMVVMWindows\TestMVVMWindows\obj\Debug\HotWind3D.g.resources
+D:\Пользователи\chernyatevich_v\Documents\Visual Studio 2013\Projects\TestMVVMWindows\TestMVVMWindows\obj\Debug\HotWind3D.Properties.Resources.resources
+D:\Пользователи\chernyatevich_v\Documents\Visual Studio 2013\Projects\TestMVVMWindows\TestMVVMWindows\obj\Debug\HotWind3D.csproj.GenerateResource.Cache
+D:\Пользователи\chernyatevich_v\Documents\Visual Studio 2013\Projects\TestMVVMWindows\TestMVVMWindows\obj\Debug\HotWind3D.exe
+D:\Пользователи\chernyatevich_v\Documents\Visual Studio 2013\Projects\TestMVVMWindows\TestMVVMWindows\obj\Debug\HotWind3D.pdb
+C:\Users\chernyatevich_v\YandexDisk\Repo\HotWind3D\TestMVVMWindows\bin\Debug\HotWind3D.exe.config
+C:\Users\chernyatevich_v\YandexDisk\Repo\HotWind3D\TestMVVMWindows\obj\Debug\HotWind3D.exe
+C:\Users\chernyatevich_v\YandexDisk\Repo\HotWind3D\TestMVVMWindows\obj\Debug\HotWind3D.pdb
